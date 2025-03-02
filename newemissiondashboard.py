@@ -417,7 +417,7 @@ st.subheader("Forecasted Performance Table with CO₂e Conversion")
 
 try:
     # Load the forecast performance data
-    forecast_performance_file = "d:/MCU/Final Project/test061224/forecast_performance.csv"  # Replace with the actual path
+    forecast_performance_file = "forecast_performance.csv"
     forecast_performance = pd.read_csv(forecast_performance_file)
 
     # Conversion factor (example: 1 kg CO₂ = 1.0 CO₂e, adjust as needed for specific factors)
