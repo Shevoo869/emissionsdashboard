@@ -1,0 +1,27 @@
+2025-01-07 21:00:02,590 - INFO - MongoDB connection successful
+2025-01-07 21:00:02,595 - INFO - Saving results for experiment 'mnist_test'
+2025-01-07 21:00:02,615 - INFO - Experiment folder created: d:\MCU\Final Project\test061224\results\mnist_test_20250107_210002
+2025-01-07 21:00:02,615 - WARNING - File not found: d:\MCU\Final Project\test061224\loss_plot.png
+2025-01-07 21:00:02,615 - WARNING - File not found: d:\MCU\Final Project\test061224\accuracy_plot.png
+2025-01-07 21:00:02,617 - WARNING - File not found: d:\MCU\Final Project\test061224\training_history.csv
+2025-01-07 21:00:02,617 - WARNING - File not found: d:\MCU\Final Project\test061224\evaluation_results.csv
+2025-01-07 21:00:02,617 - WARNING - File not found: d:\MCU\Final Project\test061224\model.h5
+2025-01-07 21:00:02,649 - INFO - Results saved, MongoDB ID: 677d2552d995fbbb60d20fd7
+2025-01-07 21:06:10,287 - INFO - MongoDB connection successful
+2025-01-07 21:06:10,293 - INFO - Saving results for experiment 'mnist_test'
+2025-01-07 21:06:10,313 - INFO - Experiment folder created: d:\MCU\Final Project\test061224\results\mnist_test_20250107_210610
+2025-01-07 21:06:10,313 - WARNING - File not found: d:/MCU/Final Project/test061224/loss_plot.png
+2025-01-07 21:06:10,314 - WARNING - File not found: d:/MCU/Final Project/test061224/accuracy_plot.png
+2025-01-07 21:06:10,314 - WARNING - File not found: d:/MCU/Final Project/test061224/training_history.csv
+2025-01-07 21:06:10,314 - WARNING - File not found: d:/MCU/Final Project/test061224/evaluation_results.csv
+2025-01-07 21:06:10,314 - WARNING - File not found: d:/MCU/Final Project/test061224/model.h5
+2025-01-07 21:06:10,339 - INFO - Results saved, MongoDB ID: 677d26c2444be028c3267ff8
+2025-01-07 22:12:25,127 - INFO - MongoDB connection successful
+2025-01-07 22:12:25,132 - INFO - Saving results for experiment 'mnist_test'
+2025-01-07 22:12:25,152 - INFO - Experiment folder created: d:\MCU\Final Project\test061224\results\mnist_test_20250107_221225
+2025-01-07 22:12:25,152 - WARNING - File not found: d:/MCU/Final Project/test061224/loss_plot.png
+2025-01-07 22:12:25,153 - WARNING - File not found: d:/MCU/Final Project/test061224/accuracy_plot.png
+2025-01-07 22:12:25,156 - INFO - File saved successfully: d:\MCU\Final Project\test061224\results\mnist_test_20250107_221225\csv\training_history.csv
+2025-01-07 22:12:25,156 - WARNING - File not found: d:/MCU/Final Project/test061224/evaluation_results.csv
+2025-01-07 22:12:25,156 - WARNING - File not found: d:/MCU/Final Project/test061224/model.h5
+2025-01-07 22:12:25,179 - INFO - Results saved, MongoDB ID: 677d364997795c871428f3bc

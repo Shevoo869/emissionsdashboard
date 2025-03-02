@@ -1,0 +1,9 @@
+2024-12-13 14:35:38,058 - INFO - MongoDB connection successful
+2024-12-13 14:35:38,065 - INFO - Saving results for experiment 'mnist_test'
+2024-12-13 14:35:38,106 - INFO - Experiment folder created: f:\MCU\Final Project\test061224\results\mnist_test_20241213_143538
+2024-12-13 14:35:38,107 - WARNING - File not found: f:\MCU\Final Project\test061224\loss_plot.png
+2024-12-13 14:35:38,107 - WARNING - File not found: f:\MCU\Final Project\test061224\accuracy_plot.png
+2024-12-13 14:35:38,108 - WARNING - File not found: f:\MCU\Final Project\test061224\training_history.csv
+2024-12-13 14:35:38,108 - WARNING - File not found: f:\MCU\Final Project\test061224\evaluation_results.csv
+2024-12-13 14:35:38,109 - WARNING - File not found: f:\MCU\Final Project\test061224\model.h5
+2024-12-13 14:35:38,169 - INFO - Results saved, MongoDB ID: 675bd5badd5a2a490450b773

@@ -1,0 +1,19 @@
+{
+  "result_id": "675bd4d0a253eb3532ef694c",
+  "experiment_name": "mnist_test",
+  "folder_path": "f:\\MCU\\Final Project\\test061224\\results\\mnist_test_20241213_143144",
+  "success": false,
+  "errors": [
+    "保存圖片 loss_plot.png 失敗: 保存文件 f:\\MCU\\Final Project\\test061224\\loss_plot.png 失敗: 文件未找到: f:\\MCU\\Final Project\\test061224\\loss_plot.png",
+    "保存圖片 accuracy_plot.png 失敗: 保存文件 f:\\MCU\\Final Project\\test061224\\accuracy_plot.png 失敗: 文件未找到: f:\\MCU\\Final Project\\test061224\\accuracy_plot.png",
+    "保存CSV training_history.csv 失敗: 保存文件 f:\\MCU\\Final Project\\test061224\\training_history.csv 失敗: 文件未找到: f:\\MCU\\Final Project\\test061224\\training_history.csv",
+    "保存CSV evaluation_results.csv 失敗: 保存文件 f:\\MCU\\Final Project\\test061224\\evaluation_results.csv 失敗: 文件未找到: f:\\MCU\\Final Project\\test061224\\evaluation_results.csv",
+    "保存模型 model.h5 失敗: 保存文件 f:\\MCU\\Final Project\\test061224\\model.h5 失敗: 文件未找到: f:\\MCU\\Final Project\\test061224\\model.h5"
+  ],
+  "warnings": [],
+  "saved_files": [],
+  "start_time": "2024-12-13 14:31:44",
+  "end_time": "2024-12-13 14:31:45",
+  "duration_seconds": 0.507615,
+  "total_files_saved": 0
+}

@@ -1,0 +1,20 @@
+{
+  "result_id": "677d364997795c871428f3bc",
+  "experiment_name": "mnist_test",
+  "folder_path": "d:\\MCU\\Final Project\\test061224\\results\\mnist_test_20250107_221225",
+  "success": true,
+  "errors": [],
+  "warnings": [
+    "File not found: d:/MCU/Final Project/test061224/loss_plot.png",
+    "File not found: d:/MCU/Final Project/test061224/accuracy_plot.png",
+    "File not found: d:/MCU/Final Project/test061224/evaluation_results.csv",
+    "File not found: d:/MCU/Final Project/test061224/model.h5"
+  ],
+  "saved_files": [
+    "d:\\MCU\\Final Project\\test061224\\results\\mnist_test_20250107_221225\\csv\\training_history.csv"
+  ],
+  "start_time": "2025-01-07 22:12:25",
+  "end_time": "2025-01-07 22:12:25",
+  "duration_seconds": 0.047099,
+  "total_files_saved": 1
+}
