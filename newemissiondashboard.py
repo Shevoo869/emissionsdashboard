@@ -123,7 +123,7 @@ def load_models():
 @st.cache_resource
 def load_vehicle_data():
     try:
-        data = pd.read_csv('d:/MCU/Final Project/test061224/cleaned_vehicles_with_realistic_year_new.csv', low_memory=False)
+        data = pd.read_csv('cleaned_vehicles_with_realistic_year_new.csv', low_memory=False)
         st.write("Vehicle data loaded successfully!")
         return data
     except Exception as e:
